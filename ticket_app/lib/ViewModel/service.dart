@@ -17,7 +17,7 @@ import 'dart:typed_data';
 import 'package:ticket_app/Model/users_model.dart';
 import 'package:ticket_app/ViewModel/utill.dart';
 class ServiceRepository{
-
+  static String test = "Dev By Tuấn Xinh";
   static String baseURL = "http://172.172.0.46:3000/";
   Uri urlMovies = Uri.parse('${baseURL}movies');
   Uri urlBanners = Uri.parse('${baseURL}banners');
