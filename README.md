@@ -1,6 +1,6 @@
 # Movie Ticket Booking
 
-A movie tickets booking and application using **Flutter** and **Nodejs Express**.
+A movie tickets booking application using **Flutter** and **Nodejs Express**.
 
 ## Features
 
